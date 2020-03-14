@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9f39948496536b1cfa4dbacf30b0488",
+    "revision": "2afc037a34e0604262c7c54921bd1711",
     "url": "/reddit-is-awful/index.html"
   },
   {
-    "revision": "bf44cdc9958470b9f2f9",
+    "revision": "659cd20a142530def9ad",
     "url": "/reddit-is-awful/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reddit-is-awful/static/js/2.d18e178f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bf44cdc9958470b9f2f9",
-    "url": "/reddit-is-awful/static/js/main.9d7013d4.chunk.js"
+    "revision": "659cd20a142530def9ad",
+    "url": "/reddit-is-awful/static/js/main.a3c91b1f.chunk.js"
   },
   {
     "revision": "9d60db84b78ca34748de",

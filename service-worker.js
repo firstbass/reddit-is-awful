@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/reddit-is-awful/precache-manifest.5c6839eb6b3e694c9e9d177d8d4b06a1.js"
+  "/reddit-is-awful/precache-manifest.504c5c46712435f89ab0b1e02e4df336.js"
 );
 
 self.addEventListener('message', (event) => {
