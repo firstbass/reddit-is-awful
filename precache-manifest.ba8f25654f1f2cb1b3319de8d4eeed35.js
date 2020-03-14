@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d4e74c8bc36140a05ab349bc8aab22c5",
+    "revision": "66359b8456f6d413ab30652b373f0bc9",
     "url": "/reddit-is-awful/index.html"
   },
   {
-    "revision": "4e761ad0669896ed7699",
+    "revision": "a73031cffc5b361e7913",
     "url": "/reddit-is-awful/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "8bc637ab2cfaa835dee7",
-    "url": "/reddit-is-awful/static/js/2.d18e178f.chunk.js"
+    "revision": "aae138f6f59c31290d25",
+    "url": "/reddit-is-awful/static/js/2.549a811e.chunk.js"
   },
   {
     "revision": "ac9fac6c8e755a8efecd01981adb88e6",
-    "url": "/reddit-is-awful/static/js/2.d18e178f.chunk.js.LICENSE.txt"
+    "url": "/reddit-is-awful/static/js/2.549a811e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4e761ad0669896ed7699",
-    "url": "/reddit-is-awful/static/js/main.7bfaa442.chunk.js"
+    "revision": "a73031cffc5b361e7913",
+    "url": "/reddit-is-awful/static/js/main.042a860c.chunk.js"
   },
   {
     "revision": "9d60db84b78ca34748de",
