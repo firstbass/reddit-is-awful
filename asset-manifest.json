@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/reddit-is-awful/static/css/main.5f361e03.chunk.css",
-    "main.js": "/reddit-is-awful/static/js/main.6f691b11.chunk.js",
-    "main.js.map": "/reddit-is-awful/static/js/main.6f691b11.chunk.js.map",
+    "main.js": "/reddit-is-awful/static/js/main.c6fc6bef.chunk.js",
+    "main.js.map": "/reddit-is-awful/static/js/main.c6fc6bef.chunk.js.map",
     "runtime-main.js": "/reddit-is-awful/static/js/runtime-main.1d096430.js",
     "runtime-main.js.map": "/reddit-is-awful/static/js/runtime-main.1d096430.js.map",
-    "static/js/2.760c2eaa.chunk.js": "/reddit-is-awful/static/js/2.760c2eaa.chunk.js",
-    "static/js/2.760c2eaa.chunk.js.map": "/reddit-is-awful/static/js/2.760c2eaa.chunk.js.map",
+    "static/js/2.20aed93f.chunk.js": "/reddit-is-awful/static/js/2.20aed93f.chunk.js",
+    "static/js/2.20aed93f.chunk.js.map": "/reddit-is-awful/static/js/2.20aed93f.chunk.js.map",
     "index.html": "/reddit-is-awful/index.html",
-    "precache-manifest.ee5478c00e0d5111e82483c780cb5855.js": "/reddit-is-awful/precache-manifest.ee5478c00e0d5111e82483c780cb5855.js",
+    "precache-manifest.2591908c83d7bab54aaff5be3fc93b0c.js": "/reddit-is-awful/precache-manifest.2591908c83d7bab54aaff5be3fc93b0c.js",
     "service-worker.js": "/reddit-is-awful/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/reddit-is-awful/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.760c2eaa.chunk.js.LICENSE.txt": "/reddit-is-awful/static/js/2.760c2eaa.chunk.js.LICENSE.txt",
+    "static/js/2.20aed93f.chunk.js.LICENSE.txt": "/reddit-is-awful/static/js/2.20aed93f.chunk.js.LICENSE.txt",
     "static/media/algorithms.jpg": "/reddit-is-awful/static/media/algorithms.6fc18ee1.jpg",
     "static/media/bias.jpg": "/reddit-is-awful/static/media/bias.72994a1e.jpg",
     "static/media/blog-post.1.md": "/reddit-is-awful/static/media/blog-post.1.da66ccef.md",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1d096430.js",
-    "static/js/2.760c2eaa.chunk.js",
+    "static/js/2.20aed93f.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.6f691b11.chunk.js"
+    "static/js/main.c6fc6bef.chunk.js"
   ]
 }
