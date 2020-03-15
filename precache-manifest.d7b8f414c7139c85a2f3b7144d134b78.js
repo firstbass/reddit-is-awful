@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7157afe0ec77ef6332a2a5bd59aae655",
+    "revision": "97778a38595c10f9b9f997e7c7b1c1b7",
     "url": "/reddit-is-awful/index.html"
   },
   {
-    "revision": "111806c052bae313faf3",
+    "revision": "071bcbdb565eb2d3b569",
     "url": "/reddit-is-awful/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reddit-is-awful/static/js/2.20aed93f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "111806c052bae313faf3",
-    "url": "/reddit-is-awful/static/js/main.c6fc6bef.chunk.js"
+    "revision": "071bcbdb565eb2d3b569",
+    "url": "/reddit-is-awful/static/js/main.b57f6814.chunk.js"
   },
   {
     "revision": "9d60db84b78ca34748de",
@@ -32,20 +32,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reddit-is-awful/static/media/bias.72994a1e.jpg"
   },
   {
-    "revision": "da66ccef224bc1baa1be55947b2e48ce",
-    "url": "/reddit-is-awful/static/media/blog-post.1.da66ccef.md"
+    "revision": "de6bafb2caefe41105b136dc99fd3d36",
+    "url": "/reddit-is-awful/static/media/blog-post.1.de6bafb2.md"
   },
   {
-    "revision": "cd31b7ea7b819e2592392e3f0e778120",
-    "url": "/reddit-is-awful/static/media/blog-post.2-1.cd31b7ea.md"
+    "revision": "70a4d7174415bceb81bcda410c736129",
+    "url": "/reddit-is-awful/static/media/blog-post.2-1.70a4d717.md"
   },
   {
-    "revision": "f02f9f9982738f8c77b8ec26aac56639",
-    "url": "/reddit-is-awful/static/media/blog-post.2.f02f9f99.md"
+    "revision": "4fc5e6418fe1c910d6d0d869c920465c",
+    "url": "/reddit-is-awful/static/media/blog-post.2.4fc5e641.md"
   },
   {
-    "revision": "6325fd529a28887fbbbad56ab4ae5305",
-    "url": "/reddit-is-awful/static/media/blog-post.3.6325fd52.md"
+    "revision": "9761bc45f02db921c3a725ca8ae1a846",
+    "url": "/reddit-is-awful/static/media/blog-post.3.9761bc45.md"
   },
   {
     "revision": "9e95168ac4a6bde9e12f9433dd11dd34",
