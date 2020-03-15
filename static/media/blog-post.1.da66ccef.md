@@ -50,7 +50,7 @@ There are certainly ethical, moral, and operational considerations that come wit
 
 __________________________
 
-#Sources
+# Sources
 
 [https://reutersinstitute.politics.ox.ac.uk/our-research/how-do-people-feel-about-news-selected-algorithms-social-media](https://reutersinstitute.politics.ox.ac.uk/our-research/how-do-people-feel-about-news-selected-algorithms-social-media)
 

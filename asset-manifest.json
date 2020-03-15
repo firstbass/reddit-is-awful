@@ -1,29 +1,30 @@
 {
   "files": {
     "main.css": "/reddit-is-awful/static/css/main.5f361e03.chunk.css",
-    "main.js": "/reddit-is-awful/static/js/main.0701a6e1.chunk.js",
-    "main.js.map": "/reddit-is-awful/static/js/main.0701a6e1.chunk.js.map",
+    "main.js": "/reddit-is-awful/static/js/main.6f691b11.chunk.js",
+    "main.js.map": "/reddit-is-awful/static/js/main.6f691b11.chunk.js.map",
     "runtime-main.js": "/reddit-is-awful/static/js/runtime-main.1d096430.js",
     "runtime-main.js.map": "/reddit-is-awful/static/js/runtime-main.1d096430.js.map",
-    "static/js/2.2e3ad2f7.chunk.js": "/reddit-is-awful/static/js/2.2e3ad2f7.chunk.js",
-    "static/js/2.2e3ad2f7.chunk.js.map": "/reddit-is-awful/static/js/2.2e3ad2f7.chunk.js.map",
+    "static/js/2.760c2eaa.chunk.js": "/reddit-is-awful/static/js/2.760c2eaa.chunk.js",
+    "static/js/2.760c2eaa.chunk.js.map": "/reddit-is-awful/static/js/2.760c2eaa.chunk.js.map",
     "index.html": "/reddit-is-awful/index.html",
-    "precache-manifest.db68bb75cf37b71d51a04b7b0562636d.js": "/reddit-is-awful/precache-manifest.db68bb75cf37b71d51a04b7b0562636d.js",
+    "precache-manifest.ee5478c00e0d5111e82483c780cb5855.js": "/reddit-is-awful/precache-manifest.ee5478c00e0d5111e82483c780cb5855.js",
     "service-worker.js": "/reddit-is-awful/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/reddit-is-awful/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.2e3ad2f7.chunk.js.LICENSE.txt": "/reddit-is-awful/static/js/2.2e3ad2f7.chunk.js.LICENSE.txt",
+    "static/js/2.760c2eaa.chunk.js.LICENSE.txt": "/reddit-is-awful/static/js/2.760c2eaa.chunk.js.LICENSE.txt",
     "static/media/algorithms.jpg": "/reddit-is-awful/static/media/algorithms.6fc18ee1.jpg",
     "static/media/bias.jpg": "/reddit-is-awful/static/media/bias.72994a1e.jpg",
-    "static/media/blog-post.1.md": "/reddit-is-awful/static/media/blog-post.1.c25f6884.md",
-    "static/media/blog-post.2.md": "/reddit-is-awful/static/media/blog-post.2.172a7763.md",
-    "static/media/blog-post.3.md": "/reddit-is-awful/static/media/blog-post.3.8d6e276b.md",
+    "static/media/blog-post.1.md": "/reddit-is-awful/static/media/blog-post.1.da66ccef.md",
+    "static/media/blog-post.2-1.md": "/reddit-is-awful/static/media/blog-post.2-1.cd31b7ea.md",
+    "static/media/blog-post.2.md": "/reddit-is-awful/static/media/blog-post.2.f02f9f99.md",
+    "static/media/blog-post.3.md": "/reddit-is-awful/static/media/blog-post.3.6325fd52.md",
     "static/media/literacy.jpg": "/reddit-is-awful/static/media/literacy.9e95168a.jpg",
     "static/media/riabackground.png": "/reddit-is-awful/static/media/riabackground.8ad89815.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1d096430.js",
-    "static/js/2.2e3ad2f7.chunk.js",
+    "static/js/2.760c2eaa.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.0701a6e1.chunk.js"
+    "static/js/main.6f691b11.chunk.js"
   ]
 }
