@@ -1,10 +1,9 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { makeStyles } from '@material-ui/core/styles';
-import Paper from '@material-ui/core/Paper';
 import Typography from '@material-ui/core/Typography';
 import Grid from '@material-ui/core/Grid';
-import Link from '@material-ui/core/Link';
+import { Card, CardActionArea } from '@material-ui/core';
 
 const useStyles = makeStyles(theme => ({
   mainFeaturedPost: {
@@ -40,7 +39,9 @@ export default function MainFeaturedPost(props) {
   const { post } = props;
 
   return (
-    <Paper className={classes.mainFeaturedPost} style={{ backgroundImage: `url(${post.image})` }}>
+    <Card className={classes.mainFeaturedPost} style={{ backgroundImage: `url(${post.image})` }}>
+      <CardActionArea component="a" href={'#/reddit'}>
+      
       {/* Increase the priority of the hero background image */}
       {<img style={{ display: 'none' }} src={post.image} alt={post.imageText} />}
       <div className={classes.overlay} />
@@ -53,13 +54,12 @@ export default function MainFeaturedPost(props) {
             <Typography variant="h5" color="inherit" paragraph>
               {post.description}
             </Typography>
-            <Link variant="h6" color="primary" href="#">
-              {post.linkText}
-            </Link>
+
           </div>
         </Grid>
       </Grid>
-    </Paper>
+      </CardActionArea>
+    </Card>
   );
 }
 

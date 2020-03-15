@@ -3,16 +3,14 @@ import { makeStyles } from '@material-ui/core/styles';
 import CssBaseline from '@material-ui/core/CssBaseline';
 import Grid from '@material-ui/core/Grid';
 import Container from '@material-ui/core/Container';
+import Paper from '@material-ui/core/Paper'
 import RiABg from './Assets/riabackground.png'
-import RiALogo from './Assets/ria.png'
-import GitHubIcon from '@material-ui/icons/GitHub';
-import FacebookIcon from '@material-ui/icons/Facebook';
-import TwitterIcon from '@material-ui/icons/Twitter';
+import Algorithms from './Assets/algorithms.jpg';
+import Literacy from './Assets/literacy.jpg';
+import Bias from './Assets/bias.jpg';
 import Header from './Header';
 import MainFeaturedPost from './MainFeaturedPost';
 import FeaturedPost from './FeaturedPost';
-import Main from './Main';
-import Sidebar from './Sidebar';
 import Footer from './Footer';
 import post1 from './blog-post.1.md';
 import post2 from './blog-post.2.md';
@@ -25,11 +23,12 @@ const useStyles = makeStyles(theme => ({
 }));
 
 const sections = [
-  { title: 'About', url: '#' },
-  { title: 'Media Literacy', url: '#' },
-  { title: 'Selection Bias', url: '#' },
-  { title: 'Navigating Reddit', url: '#' },
-  { title: 'Bonus: Bias in Algorithms', url: '#' },
+  { title: 'Home', url: '#/'},
+  { title: 'About', url: '#/about' },
+  { title: 'Bias in Media', url: '#/bias' },
+  { title: 'Media Literacy', url: '#/literacy' },
+  { title: 'Navigating Reddit', url: '#/reddit' },
+  { title: 'Bonus: Bias in Algorithms', url: '#/algorithms' },
 ];
 const mainFeaturedPost = {
   title: 'Staying Aware: Reddit Media Survival Guide',
@@ -42,44 +41,35 @@ const mainFeaturedPost = {
 
 const featuredPosts = [
   {
-    title: 'Selection Bias: What is it?',
+    title: 'Bias in Media: What is it?',
     date: 'Mar 14',
     description:
-      'Selection bias blah blah blah blah',
-    image: RiALogo,
+      'Media bias permeates every aspect of our lives - even some you may not expect. Here are ways to be aware.',
+    image: Bias,
 
     imageText: 'RiA Logo',
+    endpoint: '#/bias'
   },
   {
     title: 'Practicing Media Literacy',
     date: 'Mar 14',
     description:
-      'Media Literacy blah blah blah',
-    image: RiALogo,
+      'Being media literate is a way to combat bias in media - but what is it, really? Find out with us.',
+    image: Literacy,
     imageText: 'RiA Logo',
+    endpoint: '#/literacy',
   },
   {
     title: 'Bonus: Bias in Algorithms',
     date: 'Mar 14',
     description:
-      'Algorithms have bias blah blah blah',
-    image: RiALogo,
+      'Content algorithms have bias that permeates through to our daily lives in many different ways - do you know how?',
+    image: Algorithms,
     imageText: 'RiA Logo',
+    endpoint: '#/bias',
   },
   
 ];
-
-const posts = [post1, post2, post3];
-
-const sidebar = {
-  title: 'About',
-  description:
-    'Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.',
-  archives: [
-  ],
-  social: [
-  ],
-};
 
 export default function Blog() {
   const classes = useStyles();
@@ -88,8 +78,7 @@ export default function Blog() {
     <React.Fragment>
       <CssBaseline />
       <Container maxWidth="lg">
-        <Header title="Reddit Is Awful" sections={sections} />
-        <main>
+        <Header title="Why Reddit Is Awful" sections={sections} />
           <MainFeaturedPost post={mainFeaturedPost} />
           <Grid container spacing={4}>
             {featuredPosts.map(post => (
@@ -98,9 +87,8 @@ export default function Blog() {
           </Grid>
           <Grid container spacing={5} className={classes.mainGrid}>
           </Grid>
-        </main>
       </Container>
-      <Footer title="Reddit is Awful" description="A Technical English project made for Dr. Klein's Technical English 3130 class" />
+      <Footer title="Reddit is Awful" description="A project made for Dr. Klein's Technical English 3130 class" />
     </React.Fragment>
   );
 }

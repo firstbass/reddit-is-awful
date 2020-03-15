@@ -2,15 +2,16 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { makeStyles } from '@material-ui/core/styles';
 import Toolbar from '@material-ui/core/Toolbar';
-import Button from '@material-ui/core/Button';
-import IconButton from '@material-ui/core/IconButton';
-import SearchIcon from '@material-ui/icons/Search';
 import Typography from '@material-ui/core/Typography';
 import Link from '@material-ui/core/Link';
+import { Box } from '@material-ui/core';
 
 const useStyles = makeStyles(theme => ({
   toolbar: {
     borderBottom: `1px solid ${theme.palette.divider}`,
+  },
+  overlay: {
+    backgroundColor: 'rgba(0,0,0,.2)',
   },
   toolbarTitle: {
     flex: 1,
@@ -32,17 +33,29 @@ export default function Header(props) {
   return (
     <React.Fragment>
       <Toolbar className={classes.toolbar}>
+          <Typography
+            color="inherit"
+            noWrap
+            key={title}
+            variant="h2"
+            className={classes.toolbarLink}
+          >
+          {title}
+        </Typography>
+        <Box fontStyle="oblique">
         <Typography
-          component="h2"
-          variant="h5"
-          color="inherit"
-          align="center"
+          variant="h6"
+          color="textPrimary"
+          align="left"
           noWrap
           className={classes.toolbarTitle}
         >
-          {title}
-        </Typography>
+          (as a news source)
+          </Typography>
+          </Box>
       </Toolbar>
+      <div class={classes.overlay}>
+
       <Toolbar component="nav" variant="dense" className={classes.toolbarSecondary}>
         {sections.map(section => (
           <Link
@@ -57,6 +70,7 @@ export default function Header(props) {
           </Link>
         ))}
       </Toolbar>
+    </div>
     </React.Fragment>
   );
 }
