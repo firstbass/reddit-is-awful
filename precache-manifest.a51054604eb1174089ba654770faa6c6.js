@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97778a38595c10f9b9f997e7c7b1c1b7",
+    "revision": "2de15d8b760400d2d5037c0dd9833fea",
     "url": "/reddit-is-awful/index.html"
   },
   {
-    "revision": "071bcbdb565eb2d3b569",
+    "revision": "163378aeb5f0744a271e",
     "url": "/reddit-is-awful/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "1a41c21cbe487f0065e3",
-    "url": "/reddit-is-awful/static/js/2.20aed93f.chunk.js"
+    "revision": "5a3164c945a8a7d6d037",
+    "url": "/reddit-is-awful/static/js/2.82a71020.chunk.js"
   },
   {
     "revision": "ac9fac6c8e755a8efecd01981adb88e6",
-    "url": "/reddit-is-awful/static/js/2.20aed93f.chunk.js.LICENSE.txt"
+    "url": "/reddit-is-awful/static/js/2.82a71020.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "071bcbdb565eb2d3b569",
-    "url": "/reddit-is-awful/static/js/main.b57f6814.chunk.js"
+    "revision": "163378aeb5f0744a271e",
+    "url": "/reddit-is-awful/static/js/main.5ac90553.chunk.js"
   },
   {
     "revision": "9d60db84b78ca34748de",
@@ -32,20 +32,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reddit-is-awful/static/media/bias.72994a1e.jpg"
   },
   {
-    "revision": "de6bafb2caefe41105b136dc99fd3d36",
-    "url": "/reddit-is-awful/static/media/blog-post.1.de6bafb2.md"
+    "revision": "31d94b1685afade22e8ec762fc94804c",
+    "url": "/reddit-is-awful/static/media/blog-post.1.31d94b16.md"
   },
   {
-    "revision": "70a4d7174415bceb81bcda410c736129",
-    "url": "/reddit-is-awful/static/media/blog-post.2-1.70a4d717.md"
+    "revision": "6071fcda63d2ad3610bd452614b62898",
+    "url": "/reddit-is-awful/static/media/blog-post.2-1.6071fcda.md"
   },
   {
-    "revision": "4fc5e6418fe1c910d6d0d869c920465c",
-    "url": "/reddit-is-awful/static/media/blog-post.2.4fc5e641.md"
+    "revision": "bf621ed2f455fcdbf391dcc939e578a8",
+    "url": "/reddit-is-awful/static/media/blog-post.2.bf621ed2.md"
   },
   {
-    "revision": "9761bc45f02db921c3a725ca8ae1a846",
-    "url": "/reddit-is-awful/static/media/blog-post.3.9761bc45.md"
+    "revision": "8e2ca41a92dbd5141b10cc690a53496c",
+    "url": "/reddit-is-awful/static/media/blog-post.3.8e2ca41a.md"
   },
   {
     "revision": "9e95168ac4a6bde9e12f9433dd11dd34",

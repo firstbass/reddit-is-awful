@@ -1,5 +1,5 @@
-# **A Brief Introduction About**  **&quot;Bias&quot;**  **in Media**
-### Author: Naseem Sani
+# A Brief Overview of Bias in Media
+### Author: Ali Nabeel
 
 ## **Media and You**
 
@@ -24,13 +24,13 @@ There's always been fake news, rumors, hoaxes, and propaganda but now, the world
 
 Tech geeks have their technology, flag geeks have their vexillology and on the off chance you are interested in something that doesn't yet exist, just press a button and a new subreddit is born. Each subreddit works just like the main page, a constantly updating list of interesting stuff, according to the people interested in that stuff. When a subreddit grows large, it can be terrifyingly good at this.
 
-For example: &quot;AWW&quot; a section is devoted to adorableness, it is a global 24-hour a day battle to find the cutest images ever. Turns out if you give people with baby animal photos, a place to have their baby animal photos compete, the result is the highest density of cuteness human civilization has yet created, seriously just check it out yourself.
+For example: "AWW" a section is devoted to adorableness, it is a global 24-hour a day battle to find the cutest images ever. Turns out if you give people with baby animal photos, a place to have their baby animal photos compete, the result is the highest density of cuteness human civilization has yet created, seriously just check it out yourself.
 
-But without editors running the site, how does that sorting process work? , links people submit are balloons floating up and down the list. When someone votes up a link it adds a bit of helium and down votes sucks out little bit of helium. Periodically, reddit puts weights on all the balloons, giving newer links that show up later a chance to compete against the ones that have been around longer.
+But without editors running the site, how does that sorting process work? , links people submit are balloons floating up and down the list. When someone votes up a link it adds a bit of helium and down votes sucks out little bit of helium. Periodically, Reddit puts weights on all the balloons, giving newer links that show up later a chance to compete against the ones that have been around longer.
 
 ## **Bias in play?**
 
-This method is shockingly good at sorting stuff, be it international politics or pictures of computer setups. Of course, when a website covers the whole of human endeavor, things gets weird like subreddits for only photos of birds with arms or only photos of Hitler with socks and sometimes there can be some horrifying stuff as well, that cannot be unseen but remember that reddit can be weird not because reddit is weird but because humans are weird. One great (or worse) thing about reddit is that it changes to suite you, as you join subreddits you like and leave those you don't the main page becomes &quot;yours&quot;, listing all the best stuff from all the subreddits you follow and leaving out stuff from the ones you don't. The result of this is that we see more biased information that is Infront of us when using reddit.
+This method is shockingly good at sorting stuff, be it international politics or pictures of computer setups. Of course, when a website covers the whole of human endeavor, things gets weird like subreddits for only photos of birds with arms or only photos of Hitler with socks and sometimes there can be some horrifying stuff as well, that cannot be unseen but remember that Reddit can be weird not because Reddit is weird but because humans are weird. One great (or worse) thing about Reddit is that it changes to suite you, as you join subreddits you like and leave those you don't the main page becomes "yours", listing all the best stuff from all the subreddits you follow and leaving out stuff from the ones you don't. The result of this is that we see more biased information that is Infront of us when using Reddit.
 
 ## **How to find unbiased News Sources?**
 
@@ -42,7 +42,7 @@ To find unbiased news sources, first thing to do is to separate news stories fro
 
 That doesn't mean you cant consume media from a source that reflects your views at its core, bias is not inherently bad, as long as you know its there and one of the best ways to consume ideas is to listen to a variety of viewpoints on a topic, so long, as you have a core base effects to work off. That's fact-checking sites like politifact.com, factcheck.org, and snopes.com are important to ensure that you know what's true and false when diving into the world of reporting online. These sites are typically well sources making it easy to check their facts yourself, if you are looking to ensure they're telling the truth.
 
-Finally, if you do wish to consume news without an ounce of bias slant or editorialization, those sources do still exist, even in a polarized world. Sources like C-Span the Financial Times and Foreign Policy tend minimize their bias making them easy recommends. Of course, they are far from the only sources online to provide unbiased news. We found that the site &quot;_Media Bias/Fact Check_&quot; supplies readers with excellent roundups of the best sites for both unbiased news and sources from the left, and right. &quot;Media Bias/Fact Check&quot; also provides readers with a list of satire sites like The Onion and questionable sources including Breitbart, The Daily Stormer and The Democratic Moms, all of which have been known to peddle false or misleading news in the past.
+Finally, if you do wish to consume news without an ounce of bias slant or editorialization, those sources do still exist, even in a polarized world. Sources like C-Span the Financial Times and Foreign Policy tend minimize their bias making them easy recommends. Of course, they are far from the only sources online to provide unbiased news. We found that the site "_Media Bias/Fact Check_" supplies readers with excellent roundups of the best sites for both unbiased news and sources from the left, and right. "Media Bias/Fact Check" also provides readers with a list of satire sites like The Onion and questionable sources including Breitbart, The Daily Stormer and The Democratic Moms, all of which have been known to peddle false or misleading news in the past.
 
 ## **Some Important sites for fact checking and spotting fake news:**
 
